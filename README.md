@@ -17,3 +17,6 @@ For this challenge, I was tasked with refactoring the code to have a more accesi
 * Refactored HTML to make use of semantic elements
 * Added alt attributes to images
 * Updated CSS to correlate more efficiently with the HTML
+
+
+![image](https://user-images.githubusercontent.com/122335371/217201643-7f205e3f-e850-40a7-a067-352167562d38.png)
