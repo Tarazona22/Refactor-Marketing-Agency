@@ -17,5 +17,6 @@ For this challenge, I was tasked with refactoring the code to have a more accesi
 * Refactored HTML to make use of semantic elements
 * Added alt attributes to images
 * Updated CSS to correlate more efficiently with the HTML
+* Changed format to fit screen when zooming in and out
 
 ![image](https://user-images.githubusercontent.com/122335371/217213321-210c2f0d-a3c0-43a2-bbd0-1aca2561107d.png)
